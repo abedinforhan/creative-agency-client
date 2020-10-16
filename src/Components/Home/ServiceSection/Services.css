@@ -1,0 +1,23 @@
+.services{
+  margin-top:50px;
+  margin-bottom: 80px;
+}
+
+.service__img{
+  height: 80px;
+  object-fit: contain;
+}
+.service__info{
+  height: 200px;
+  margin:10px 0px;
+  padding:10px;
+  
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.service__info > p{
+ font-size: 16px;
+ font-weight: 300;
+}

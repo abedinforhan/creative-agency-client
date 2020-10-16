@@ -1,0 +1,30 @@
+[1014/090409.181:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1014/174038.914:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1014/231300.910:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[1015/153638.024:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/154638.123:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/154638.232:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\11c48a5f-74fc-4c76-a25a-34593680ff05: The system cannot find the path specified. (0x3)
+[1015/154638.313:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\282d0e6f-bf41-4ddf-8216-ec0e16220003: The system cannot find the path specified. (0x3)
+[1015/154638.368:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\41902862-3d39-46dd-bc2d-f0e854c91630: The system cannot find the path specified. (0x3)
+[1015/154638.704:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\User\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a37aafc3-4b97-44d7-811d-25c33956c2d7: The system cannot find the path specified. (0x3)
+[1015/154638.704:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1015/154638.704:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/154638.704:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/155138.147:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/160638.211:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/162138.259:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/163638.538:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/165138.589:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/170638.724:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/172138.839:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/173638.984:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/175139.119:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/180639.729:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/182140.057:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/183640.527:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/185140.573:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/190640.574:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/192140.602:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/193640.957:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/195141.009:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1015/204231.419:ERROR:crash_report_database_win.cc(457)] unexpected header

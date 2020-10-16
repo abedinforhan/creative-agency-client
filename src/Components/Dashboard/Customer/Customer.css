@@ -1,0 +1,41 @@
+.customer{
+  height: 100vh;
+  width:100vw;
+  background-color:#fff;
+}
+
+.customer__left{
+  height: 100vh;
+}
+.customer__right{
+background-color:#f4f7fc;
+width:100%;
+}
+
+.customer__listContainer{
+  margin-top: 60px;
+  margin-left: 30px;
+}
+.customer__listItem{
+  margin-bottom: 5px;
+  font-size: 14px; 
+  cursor: pointer;
+}
+.customer__listItem:hover{
+  color:green;
+}
+.MuiSvgIcon-root{
+ height: 16px !important;
+}
+.customer__header{
+background-color:#fff;
+display: flex !important;
+align-items: center ;
+justify-content: space-between !important;
+padding:20px 10px;
+margin-bottom: 50px;
+}
+.customer__header > *{
+  margin: 0px 30px;
+}
+

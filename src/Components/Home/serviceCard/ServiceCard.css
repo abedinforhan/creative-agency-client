@@ -1,0 +1,23 @@
+.serviceCard{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  border: none;
+}
+.serviceCard:hover{
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.2);
+}
+.serviceCard__title{
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: bold;
+ }
+.serviceCard__img{
+  height: 80px;
+  width: 80px;
+}
+.serviceCard__desc{
+  text-align: center;
+  font-size: 12px;
+}

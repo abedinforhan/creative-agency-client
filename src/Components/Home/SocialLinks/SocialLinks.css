@@ -1,0 +1,11 @@
+.socialLinks{
+  height: 50px;
+  margin: 40px 0px;
+  text-align:center;
+}
+.socialLinks > img {
+  height: 40px;
+  width:100px;
+  object-fit: contain;
+  margin: 0px 20px;
+}

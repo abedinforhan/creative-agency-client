@@ -1,0 +1,14 @@
+.makeAdmin{
+  height: 150px;
+
+  background-color:#fff;
+  border-radius:10px;
+  padding-top: 10px;
+  padding-left:15px ;
+
+}
+.makeAdmin__input{
+  width: 40%;
+  outline-width:0;
+  border:1px solid lightgray;
+}

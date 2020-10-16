@@ -1,0 +1,26 @@
+.orderForm{
+  height: 300px;
+  width: 80%;
+  
+}
+.orderForm > form >input{
+  border:none;
+  height: 40px;
+  width: 80%;
+  margin: 5px 0px;
+  padding: 0px 5px;
+  outline-width: 0;
+  font-size: 14px;
+  font-weight: 200;
+  color:gray;
+}
+.two__input > input{
+  padding: 0px 5px;
+  width: 30%;
+  outline-width: 0;
+  border:none;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 200;
+  color:gray;
+}

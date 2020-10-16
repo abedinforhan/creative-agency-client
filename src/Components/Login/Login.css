@@ -1,0 +1,34 @@
+.login{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+.login > img {
+  width: 200px;
+  padding-bottom:60px ;
+}
+.login__container{
+  width: 400px;
+  border: 1px solid lightgray;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding: 100px 20px ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.login__googleBtn{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-right: 50px;
+  width:90%;
+  border-radius: 20px;
+  background-color:#fff;
+  color:black;
+}
