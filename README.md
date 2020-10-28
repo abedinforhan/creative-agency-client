@@ -4,7 +4,7 @@ is a full-stack web-based agency that gives IT services to their clients.
 
 Live Site:  **[Creative Agency](https://creative-agency-6909f.web.app)**.  
 ## Live Demo:
-![Creative Agency]( "Creative Agency")
+![Creative Agency](/agency.gif "Creative Agency")
 
 ## Technology and library/framework used:
 ### Frontend: 
